@@ -23,8 +23,9 @@ I'm a Front-end Developer who loves developing static pages with modern JavaSrip
 - Prettier
 - iTerm
 - ImageOptim, [TinyJPG](https://tinyjpg.com/), and [TinyPNG](https://tinypng.com/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
-## Wants to Learn
+## Things I wants to learn
 
 - TypeScript
 - php and Laravel
