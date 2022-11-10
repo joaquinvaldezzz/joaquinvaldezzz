@@ -1,9 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "format": "prettier -w ."
+    "format": "prettier -w .",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.{css,js,md}": "prettier --write"
   },
   "devDependencies": {
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.3",
     "prettier": "^2.7.1"
   }
 }
